@@ -3,6 +3,7 @@ package com.company;
 import java.time.LocalDate;
 
 public class Osoba {
+
     private String imię;
     private String nazwisko;
     private LocalDate dataUrodzenia;
